@@ -5,6 +5,22 @@
 [![License](https://img.shields.io/cocoapods/l/glabs.svg?style=flat)](https://cocoapods.org/pods/glabs)
 [![Platform](https://img.shields.io/cocoapods/p/glabs.svg?style=flat)](https://cocoapods.org/pods/glabs)
 
+## Introduce
+
+ViewController: 首页
+
+ViewModel：列表数据
+
+Section：列表数据模型
+
+Constants： 常量
+
+Adapters：UI事件处理
+
+Views：自定义View
+
+Cells：列表自定Cell
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.

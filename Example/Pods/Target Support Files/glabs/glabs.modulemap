@@ -1,0 +1,6 @@
+framework module glabs {
+  umbrella header "glabs-umbrella.h"
+
+  export *
+  module * { export * }
+}

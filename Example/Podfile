@@ -4,6 +4,7 @@ platform :ios, '10.0'
 
 target 'glabs_Example' do
   pod 'glabs', :path => '../'
+  pod 'SnapKit'
 
   target 'glabs_Tests' do
     inherit! :search_paths
