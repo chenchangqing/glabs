@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'glabs_Example' do
+  pod 'glabs', :path => '../'
+
+  target 'glabs_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
